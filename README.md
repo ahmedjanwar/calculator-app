@@ -1,1 +1,1 @@
-# calculator-app
+# calculator-app using react and tailwind css
